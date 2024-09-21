@@ -9,9 +9,10 @@
 	- Co-workers
 - Let no unwholesome word proceed from your mouth, but only such a word as is good for edification according to the need of the moment, so that it will give grace to those who hear. Ephesians 4:29
 
-# Confidentiality
+# Confidentiality 
 - Maintain client privacy and confidentiality at all times.
 - Share client information only with authorized individuals and for legitimate purposes.
+- See [[Sapphire/Sapphire Policy Manual/Confidentiality Policy\|Confidentiality Policy]]
 # Respect and Dignity
 - Treat all clients with respect and dignity, regardless of their background or circumstances.
 - Use language that is respectful and non-judgmental.

@@ -55,5 +55,5 @@ Tools that help us to maintain and improve our skill and stamina
 - Explanation of how tools can make or break the success of a task or project.
 
 But tools have no value if we don’t know how and when to use them. We need
-# [[Recovery worker training/Training Manual/Skills\|Skills]]
+# [[Recovery worker training/Training Manual/Worker Skills\|Worker Skills]]
 Knowing the tools

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/recovery-worker-training/training-manual/introduction/introduction/"}
 ---
 
-# Ingredients for success
+## Ingredients for success
 - Relationship with Jesus
 - Wisdom and Skills
 - Tools
@@ -13,7 +13,7 @@
 Take away any one and the difficulty multiplies. 
 
 
-# Relationship with Jesus/Fruit of the Spirit
+## Relationship with Jesus/Fruit of the Spirit
 - This is Jesus’ work. He loves children more than we ever could.
 - We can’t change anyone.
 - The healthy worker is constantly aware of God’s work in others, and understands her role as God’s servant to do His work.
@@ -22,7 +22,7 @@ Take away any one and the difficulty multiplies.
 - The healthy worker examines her thoughts, feelings and actions
 - The healthy worker exhibits the fruit of the Spirit in all situations. 
 
-# Skills
+## Skills
 - Practicing mindfulness
 - Communication
 	- Conversation
@@ -42,37 +42,37 @@ Take away any one and the difficulty multiplies.
 	- Emotional health
 
 
-# Choosing and Using Tools Effectively
+## Choosing and Using Tools Effectively
 
 - Criteria for selecting the right tools for the job.
 - Importance of training and proficiency with tools.
 - Regular maintenance and upgrades.
 
-## Real-World Examples
+### Real-World Examples
 
 - Examples where the right or wrong tools significantly impacted outcomes.
 
-# Planning: The Blueprint for Success
+## Planning: The Blueprint for Success
 
-## The Role of Planning
+### The Role of Planning
 
 - Definition of planning and its importance in setting direction and goals.
 - Explanation of short-term vs. long-term planning.
 
-## Components of Effective Planning
+### Components of Effective Planning
 
 - Setting SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound).
 - Importance of flexibility and adaptability.
 - Role of risk management and contingency planning.
 
-# Care for self
+## Care for self
 
-## Building Strength and Stamina
+### Building Strength and Stamina
 
 - Techniques for physical fitness and well-being.
 - Strategies for mental resilience and stress management.
 
-## Real-World Examples
+### Real-World Examples
 
 - Examples from sports, business, or personal projects where strength and stamina played a critical role.
 

@@ -33,9 +33,6 @@ If you can learn to live without comparing it will bless you.
 
 
 
-
-# [[Sapphire/Sapphire Policy Manual/General Policies\|General Policies]]
-
 # Client relationships
 
 # Worker Characteristics
