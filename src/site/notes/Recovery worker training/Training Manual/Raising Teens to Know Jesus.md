@@ -13,7 +13,7 @@
 ### Teach *how* more than *what*
 - How to read/learn/love the Bible
 - How to see/understand/follow God's presence and work
-- 
+	
 
 ## Learning the Bible
 ### Teaching how to learn 
