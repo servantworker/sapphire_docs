@@ -27,3 +27,11 @@ Thai [[Sapphire/Sapphire Residential Prevention Centers ภาพรวม\|Sapp
 
 { .block-language-dataview}
 # 
+
+<script src="https://utteranc.es/client.js"
+        repo="sapphire_docs"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
