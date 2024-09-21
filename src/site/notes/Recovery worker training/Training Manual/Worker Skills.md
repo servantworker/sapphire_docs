@@ -28,6 +28,8 @@ Ability to listen attentively and empathetically, even in difficult conversation
 
 ## Communication Skills
 Speaks clearly and respectfully using words and patterns adjusted to the needs and abilities of the lister, with non-threatening non-verbal signs.
+## Writing
+- [[Recovery worker training/Training Manual/Writing useful notes\|Writing useful notes]]
 
 ## Crisis Intervention Skills 
 Can manage and de-escalate tense situations, including fights, tantrums, and threats.

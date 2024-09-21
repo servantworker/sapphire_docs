@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/recovery-worker-training/training-manual/therapy-modalities-eng/"}
 ---
 
-
 ## Supportive Listening & Validation
 - Description: Simply listening to the girls' concerns and experiences without judgment or offering solutions. Providing a safe space for them to express emotions.
 - Goal: To create a space where they feel heard, validated, and supported.

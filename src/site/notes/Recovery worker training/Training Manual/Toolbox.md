@@ -17,8 +17,6 @@ Mental Health questionaires
 [| คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดลRamaMental (mahidol.ac.th)](https://www.rama.mahidol.ac.th/ramamental/questionnair)
 
 
-
-
 ### Therapy Tools
 Techniques to help people heal, including [[Glossary/Modality\|modalities]] like cognitive-behavioral therapy (CBT), art therapy, and play therapy. 
 

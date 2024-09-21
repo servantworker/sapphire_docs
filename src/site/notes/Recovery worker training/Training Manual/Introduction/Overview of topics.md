@@ -22,7 +22,7 @@
 # Phone/computer best practices
 
 
-# [[Recovery worker training/Training Manual/Understanding Childhood Trauma\|Understanding Childhood Trauma]]
+# [[Recovery worker training/Training Manual/Understanding Teens/Understanding Childhood Trauma\|Understanding Childhood Trauma]]
 # Brain-body development
 
 # Preparing Students for Family
