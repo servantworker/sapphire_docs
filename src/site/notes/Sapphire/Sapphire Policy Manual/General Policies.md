@@ -19,17 +19,17 @@ Reward students for behavior and demonstration of character, not demonstration o
 All workers may be referred to as "counselors",  given their role to help each student become her best.
 ## Roles
 ### Care Team member
-[[Sapphire/Sapphire Policy Manual/Sapphire Care Team\|Sapphire Care Team]]
+[[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Care Team\|Sapphire Care Team]]
 ### Director, FT
-[[Sapphire/Sapphire Policy Manual/Sapphire Program Director\|Sapphire Program Director]]
+[[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Program Director\|Sapphire Program Director]]
 ### Supervising teacher, FT
-[[Sapphire/Sapphire Policy Manual/Sapphire Supervising Teacher\|Sapphire Supervising Teacher]]
+[[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Supervising Teacher\|Sapphire Supervising Teacher]]
 ### Curriculum consultant
-[[Sapphire/Sapphire Policy Manual/Sapphire Curriculum Consultant\|Sapphire Curriculum Consultant]]
+[[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Curriculum Consultant\|Sapphire Curriculum Consultant]]
 ### Day counselors
-[[Sapphire/Sapphire Policy Manual/Sapphire Day Counselor Job\|Sapphire Day Counselor Job]]
+[[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Day Counselor Job\|Sapphire Day Counselor Job]]
 ### Night counselors
-[[Sapphire/Sapphire Policy Manual/Sapphire Night Counselor Job\|Sapphire Night Counselor Job]]
+[[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Night Counselor Job\|Sapphire Night Counselor Job]]
 ### Finance manager
 
 # Case management 
