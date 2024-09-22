@@ -4,7 +4,7 @@
 
 # Ministry Overview ภาพรวม
 [[Sapphire/Sapphire Residential Prevention Centers Overview\|Sapphire Residential Prevention Centers Overview]]
-ภาษาไทย [[Sapphire/Sapphire Residential Prevention Centers ภาพรวม\|Sapphire Residential Prevention Centers ภาพรวม]]
+ภาษาไทย [[Sapphire/Sapphire Residential Prevention Centers Overview Thai\|Sapphire Residential Prevention Centers Overview Thai]]
 
 # General Docs
 - [[Sapphire/Sapphire Residential Prevention Centers Overview\|Sapphire Residential Prevention Centers Overview]]
@@ -26,18 +26,18 @@
 { .block-language-dataview}
 
 # Policy Docs
-| File                                                                                                        | Thai                                                                                                | completion + "%" | importance |
-| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------- | ---------- |
-| [[Sapphire/Sapphire Policy Manual/Child Protection Policy\|Child Protection Policy]]                     | \-                                                                                                  | 10%              | Necessary  |
-| [[Sapphire/Sapphire Policy Manual/Confidentiality Policy\|Confidentiality Policy]]                       | [[Sapphire/Sapphire Policy Manual/นโยบายความลับ\|นโยบายความลับ]]                                 | 80%              | Necessary  |
-| [[Sapphire/Sapphire Policy Manual/General Policies\|General Policies]]                                   | \-                                                                                                  | \-%              | \-         |
-| [[Sapphire/Sapphire Policy Manual/Grievance Policy\|Grievance Policy]]                                   | \-                                                                                                  | 80%              | \-         |
-| [[Sapphire/Sapphire Policy Manual/Handling Retaliation\|Handling Retaliation]]                           | \-                                                                                                  | 80%              | Necessary  |
-| [[Sapphire/Sapphire Policy Manual/Home Routines\|Home Routines]]                                         | \-                                                                                                  | \-%              | \-         |
-| [[Sapphire/Sapphire Policy Manual/Safety in the Home\|Safety in the Home]]                               | \-                                                                                                  | 20%              | Necessary  |
-| [[Sapphire/Sapphire Policy Manual/Sapphire Management Documentation\|Sapphire Management Documentation]] | \-                                                                                                  | \-%              | Essential  |
-| [[Sapphire/Sapphire Policy Manual/Student Conduct Standards\|Student Conduct Standards]]                 | [[Sapphire/Sapphire Policy Manual/นโยบายการประพฤติตนของนักศึกษา\|นโยบายการประพฤติตนของนักศึกษา]] | \-%              | \-         |
-| [[Sapphire/Sapphire Policy Manual/Worker Conduct\|Worker Conduct]]                                       | \-                                                                                                  | \-%              | Essential  |
+| File                                                                                                        | Thai                                                                                            | completion + "%" | importance |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------- | ---------- |
+| [[Sapphire/Sapphire Policy Manual/Child Protection Policy\|Child Protection Policy]]                     | \-                                                                                              | 10%              | Necessary  |
+| [[Sapphire/Sapphire Policy Manual/Confidentiality Policy\|Confidentiality Policy]]                       | [[Sapphire/Sapphire Policy Manual/Confidentiality Policy Thai\|Confidentiality Policy Thai]] | 80%              | Necessary  |
+| [[Sapphire/Sapphire Policy Manual/General Policies\|General Policies]]                                   | \-                                                                                              | \-%              | \-         |
+| [[Sapphire/Sapphire Policy Manual/Grievance Policy\|Grievance Policy]]                                   | \-                                                                                              | 80%              | \-         |
+| [[Sapphire/Sapphire Policy Manual/Handling Retaliation\|Handling Retaliation]]                           | \-                                                                                              | 80%              | Necessary  |
+| [[Sapphire/Sapphire Policy Manual/Home Routines\|Home Routines]]                                         | \-                                                                                              | \-%              | \-         |
+| [[Sapphire/Sapphire Policy Manual/Safety in the Home\|Safety in the Home]]                               | \-                                                                                              | 20%              | Necessary  |
+| [[Sapphire/Sapphire Policy Manual/Sapphire Management Documentation\|Sapphire Management Documentation]] | \-                                                                                              | \-%              | Essential  |
+| [[Sapphire/Sapphire Policy Manual/Student Conduct Standards\|Student Conduct Standards]]                 | [[Sapphire/Sapphire Policy Manual/Student Conduct Policy Thai\|Student Conduct Policy Thai]] | \-%              | \-         |
+| [[Sapphire/Sapphire Policy Manual/Worker Conduct\|Worker Conduct]]                                       | \-                                                                                              | \-%              | Essential  |
 
 { .block-language-dataview}
 
