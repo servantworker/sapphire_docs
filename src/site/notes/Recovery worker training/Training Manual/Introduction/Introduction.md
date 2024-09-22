@@ -3,12 +3,19 @@
 ---
 
 ## Ingredients for success
-- Relationship with Jesus
-- Wisdom and Skills
+- God-centeredness
+	- Living with the mind of Christ
+	- Filled with the Spirit and wisdom
+- Skills 
+	- Wisdom from God's Word
+	- Skills from various 
 - Tools
-- Plan
+	- Bible  
+	- Resources, techniques
 - Care for self
 - Care from others
+
+
 
 Take away any one and the difficulty multiplies. 
 
@@ -76,5 +83,8 @@ Take away any one and the difficulty multiplies.
 
 - Examples from sports, business, or personal projects where strength and stamina played a critical role.
 
+## Care from others
 
+No one can do this alone.
 
+The emotions involved in relationships distort or narrow our perspective.

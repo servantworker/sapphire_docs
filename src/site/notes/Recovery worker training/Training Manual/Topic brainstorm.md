@@ -13,23 +13,7 @@
 	- 
 - 
 	
-- # Vocational
 - 
-# Family life
-- Structure
-- Idea of intentionally preparing you for having a family
-- Eating together
-- Solving problems
-
-
-# Consumer education
-- Budgeting
-- Small purchases
-- Mindful choices
-- 
-
-# Staff/ employee training
-
 
 
 Minimum level standard

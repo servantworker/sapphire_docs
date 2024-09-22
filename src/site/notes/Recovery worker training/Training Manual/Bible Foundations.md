@@ -51,7 +51,10 @@
 - 2 Peter 1
 
 # Book overviews to watch (Bible Project)
-- Genesis - Judges
+
+https://bibleproject.com/locale/downloads/tha/
+
+- Genesis - Judges 
 - Psalms
 - Isaiah
 - John

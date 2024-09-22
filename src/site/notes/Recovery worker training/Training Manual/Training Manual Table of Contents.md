@@ -38,23 +38,32 @@
 { .block-language-dataview}
 
 ## Tools
-| File                                                                                                         | Thai |
-| ------------------------------------------------------------------------------------------------------------ | ---- |
-| [[Recovery worker training/Training Manual/Collaborative Decision Making\|Collaborative Decision Making]] | \-   |
-| [[Recovery worker training/Training Manual/Collaborative Problem Solving\|Collaborative Problem Solving]] | \-   |
-| [[Recovery worker training/Training Manual/Play Therapy Ideas\|Play Therapy Ideas]]                       | \-   |
-| [[Recovery worker training/Training Manual/Therapy Modalities Eng\|Therapy Modalities Eng]]               | \-   |
-| [[Recovery worker training/Training Manual/Therapy Modalities Thai\|Therapy Modalities Thai]]             | \-   |
-| [[Recovery worker training/Training Manual/Toolbox\|Toolbox]]                                             | \-   |
+| File                                                                                                         | Thai                                                                                           | Competion |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | --------- |
+| [[Recovery worker training/Training Manual/Collaborative Decision Making\|Collaborative Decision Making]] | \-                                                                                             | \-        |
+| [[Recovery worker training/Training Manual/Collaborative Problem Solving\|Collaborative Problem Solving]] | \-                                                                                             | \-        |
+| [[Recovery worker training/Training Manual/Play Therapy Ideas\|Play Therapy Ideas]]                       | \-                                                                                             | \-        |
+| [[Recovery worker training/Training Manual/Therapy Modalities\|Therapy Modalities]]                       | [[Recovery worker training/Training Manual/Therapy Modalities Thai\|รายชื่อรูปแบบการบำบัด]] | \-        |
+| [[Recovery worker training/Training Manual/Toolbox\|Toolbox]]                                             | \-                                                                                             | \-        |
 
 { .block-language-dataview}
 
-## Management
 
-## Empty
+## Management
+| File                                                                                         | Thai | Competion |
+| -------------------------------------------------------------------------------------------- | ---- | --------- |
+| [[Recovery worker training/Training Manual/Running a Smooth Home\|Running a Smooth Home]] | \-   | \-        |
+
+{ .block-language-dataview}
+
+
+## [[Recovery worker training/Training Manual/Glossary\|Glossary]]
+
+## Waiting To Begin
 | File                                                                                                              | Thai | Completion |
 | ----------------------------------------------------------------------------------------------------------------- | ---- | ---------- |
 | [[Recovery worker training/Training Manual/Crisis Intervention\|Crisis Intervention]]                          | \-   | 0          |
+| [[Recovery worker training/Training Manual/Glossary\|Glossary]]                                                | \-   | \-         |
 | [[Recovery worker training/Training Manual/Healing and Growth/Anxiety and depression\|Anxiety and depression]] | \-   | 80         |
 | [[Recovery worker training/Training Manual/Introduction/Common problems\|Common problems]]                     | \-   | 0          |
 | [[Recovery worker training/Training Manual/Planning for progress\|Planning for progress]]                      | \-   | 0          |
@@ -66,3 +75,4 @@
 | [[Recovery worker training/Training Manual/The Circle of Security\|The Circle of Security]]                    | \-   | 80         |
 
 { .block-language-dataview}
+

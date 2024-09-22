@@ -17,6 +17,11 @@ The Enablers of Efficiency
 - Tools can be **conceptual**, such as methods and approaches, such as counseling techniques, crisis intervention strategies, and advocacy frameworks. 
 
 # Kinds of tools for this kind of work
+
+## Bible
+> All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God[a] may be thoroughly equipped for every good work. 2 Timothy 3:16-17
+
+- **The Bible is a very useful tool** 
 ## Assessment Tools
 Used to evaluating clients' needs, strengths and progress, such as tests, questionnaires, and interview formats.
 
