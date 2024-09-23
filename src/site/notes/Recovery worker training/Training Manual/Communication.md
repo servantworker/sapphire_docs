@@ -142,4 +142,4 @@ Caveats ข้อควรระวัง
 
 [[Recovery worker training/Training Manual/Talking About People\|Talking About People]]
 
-[[Recovery worker training/Training Manual/Talking About Co-Workers\|Talking About Co-Workers]]
+[[Talking About Co-Workers\|Talking About Co-Workers]]

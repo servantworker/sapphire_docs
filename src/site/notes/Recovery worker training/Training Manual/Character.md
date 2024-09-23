@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/recovery-worker-training/training-manual/character/"}
 ---
 
-The worker 
-### Fruit of the Spirit
+## Fruit of the Spirit
+
 - Love
 - Joy
 - Peace

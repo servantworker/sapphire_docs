@@ -103,8 +103,8 @@ https://bibleproject.com/locale/downloads/tha/
 
 
 
-The worker 
-### Fruit of the Spirit
+## Fruit of the Spirit
+
 - Love
 - Joy
 - Peace

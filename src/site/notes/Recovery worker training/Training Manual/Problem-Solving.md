@@ -46,8 +46,53 @@ Problems are a daily occurrence when we work with people. The way we approach an
 - Leads to misunderstandings, lack of collaboration, and ineffective problem-solving.
 .
 
+Here is a general outline for problem solving using the 6 steps from the example:
 
-# Possible Steps in Solving the Problem of a 9th-Grade Girl Having Great Difficulty Sleeping at Night
+---
+
+# Good Problem Solving
+
+## Step 1: Identify the Problem
+- **Define the issue clearly and specifically**: Understanding the problem is the first step towards finding a solution. Make sure the problem is framed in clear terms.
+- **Examples**: A person might have trouble sleeping, difficulty at school, or problems in their relationships.
+
+## Step 2: Understand the Problem
+- **Gather relevant information**: Talk to those involved, review the context, and collect data related to the issue.
+- **Identify possible factors**: Look at internal (emotions, stress, habits) and external (environment, resources) influences.
+- **Consider different perspectives**: Understand how the problem impacts different stakeholders.
+  
+## Step 3: Think of Possible Solutions
+- **Brainstorm solutions**: Generate a variety of possible solutions without focusing on just one.
+- **Consider different categories of solutions**:
+   - **Behavioral changes**: Alter habits or routines.
+   - **Environmental changes**: Adjust physical surroundings.
+   - **Communication**: Address misunderstandings or lack of clarity.
+   - **Health/Lifestyle**: Focus on well-being, nutrition, or exercise.
+- **Weigh pros and cons**: Evaluate each solution's potential effectiveness and feasibility.
+
+## Step 4: Choose the Tool(s)
+- **Collaborate with others**: Discuss potential solutions with those affected by the problem.
+- **Make a decision**: Choose the best solution based on the gathered information and preferences.
+- **Tailor the solution**: Ensure the solution fits the unique needs of the problem.
+
+## Step 5: Implement the Solution
+- **Develop an action plan**: Break the solution down into actionable steps with clear goals and timelines.
+- **Ensure support**: Make sure there is enough support from others to implement the solution effectively.
+- **Stay flexible**: Be ready to adapt as new challenges arise during the implementation process.
+
+## Step 6: Review the Results
+- **Monitor progress**: Regularly check in to assess whether the solution is working.
+- **Collect feedback**: Ask for input from those involved to see if adjustments are necessary.
+- **Reflect and adapt**: Analyze what worked, what didn’t, and make necessary modifications.
+- **Prevent relapse**: Ensure continuous support and be proactive in addressing any future issues.
+
+---
+
+This structured approach can be applied to a wide variety of problems, making it adaptable to different situations and needs.
+
+# Example Case
+
+### A 9th-grade girl is having trouble sleeping at night.
 
 ## Step 1: Identify the Problem
 
@@ -56,6 +101,7 @@ Problems are a daily occurrence when we work with people. The way we approach an
 ## Step 2: Understand the Problem
 
 ### Gather Information
+
    - Talk to the girl to understand her sleep patterns and difficulties.
    - Ask about her bedtime routine, sleep environment, and any potential stressors.
    - Check for any changes in her daily routine, diet, or activity level.
@@ -112,6 +158,7 @@ Problems are a daily occurrence when we work with people. The way we approach an
     - Regularly check in with the girl to assess her sleep patterns and overall well-being.
     - Use the sleep diary to track improvements and identify any persistent issues.
     - Adjust the plan if necessary based on feedback and results.
+
 - **Reflect and Adapt:**
     
     - Reflect on what worked and what didn’t.
