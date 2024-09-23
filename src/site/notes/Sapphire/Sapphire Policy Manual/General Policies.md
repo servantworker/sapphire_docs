@@ -45,9 +45,9 @@ It's not what you expect, it's what you inspect.
 [[Sapphire/Sapphire Policy Manual/Sapphire Management Documentation\|Sapphire Management Documentation]]
 
 
- | File                                                | Scenes    |
-| --------------------------------------------------- | --------- |
-| [[Sapphire/Sapphire Policy Manual/Index\|Index]] | <ul></ul> |
+ | File                                                | Scenes                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sapphire/Sapphire Policy Manual/Index\|Index]] | <ul><li><ul><li>Child Protection Policy</li><li>Confidentiality Consent Form</li><li>Media Release Form</li><li>Sapphire Management Documentation</li></ul></li><li>Job Descriptions</li><li>Best Practices</li><li>Home Management</li><li><ul><li>Home Rules and Routines</li></ul></li><li>Case Management</li></ul> |
 
 { .block-language-dataview}
 
