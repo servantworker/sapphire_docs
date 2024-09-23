@@ -7,10 +7,13 @@
 - [[Sapphire/Sapphire Residential Prevention Centers Overview\|Sapphire Residential Prevention Centers Overview]]
 - ภาษาไทย [[Sapphire/Sapphire Residential Prevention Centers Overview Thai\|Sapphire Residential Prevention Centers Overview Thai]]
 
-# [[Recovery worker training/Training Manual/Worker Training Manual\|Worker Training Manual]]
+# [[Training Manual/Worker Training Manual\|Worker Training Manual]]
 
 
 # Job Descriptions
+Most of these need to be changed. 
+1 person can have more than one job.
+
 | File                                                                                                                   | Thai | % Complete | importance |
 | ---------------------------------------------------------------------------------------------------------------------- | ---- | ---------- | ---------- |
 | [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Night Counselor Job\|Sapphire Night Counselor Job]]     | \-   | <ul></ul>  | Necessary  |
@@ -19,13 +22,14 @@
 | [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Curriculum Consultant\|Sapphire Curriculum Consultant]] | \-   | 50         | \-         |
 | [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Supervising Teacher\|Sapphire Supervising Teacher]]     | \-   | <ul></ul>  | Necessary  |
 | [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Startup Consultant\|Sapphire Startup Consultant]]       | \-   | 80         | Optional   |
-| [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Care Team\|Sapphire Care Team]]                         | \-   | 50         | \-         |
+| [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Care Team\|Sapphire Care Team]]                         | \-   | 50         | Essential  |
 | [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Program Director\|Sapphire Program Director]]           | \-   | 50         | Necessary  |
 | [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Development Director\|Sapphire Development Director]]   | \-   | 0          | Can wait   |
 
 { .block-language-dataview}
 
 # Policy Docs
+I'll try to organize these better.
 | File                                                                                                        | Thai                                                                                            | % Complete | importance |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------- | ---------- |
 | [[Sapphire/Sapphire Policy Manual/Child Protection Policy\|Child Protection Policy]]                     | \-                                                                                              | 10         | Necessary  |

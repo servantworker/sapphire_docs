@@ -13,7 +13,7 @@
 | [[Sapphire/Sapphire Policy Manual/Interview Guide\|Interview Guide]]                                                | \-    | Can wait   | \-          | \-%        | \-      |
 | [[Sapphire/Sapphire Policy Manual/Safety in the Home\|Safety in the Home]]                                          | \-    | Necessary  | \-          | 20%        | \-      |
 | [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Business Admin\|Sapphire Business Admin]]               | \-    | \-         | Draft       | 0%         | \-      |
-| [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Care Team\|Sapphire Care Team]]                         | \-    | \-         | Draft       | 50%        | \-      |
+| [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Care Team\|Sapphire Care Team]]                         | \-    | Essential  | Draft       | 50%        | \-      |
 | [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Curriculum Consultant\|Sapphire Curriculum Consultant]] | \-    | \-         | Draft       | 50%        | \-      |
 | [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Day Counselor Job\|Sapphire Day Counselor Job]]         | \-    | Necessary  | Draft       | 0%         | \-      |
 | [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Development Director\|Sapphire Development Director]]   | \-    | Can wait   | Draft       | 0%         | \-      |
