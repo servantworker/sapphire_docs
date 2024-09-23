@@ -2,8 +2,14 @@
 {"dg-publish":true,"permalink":"/recovery-worker-training/training-manual/bible-foundations/"}
 ---
 
-# Passages to Learn
-- Ruth
+## Passages to Learn
+
+### Ruth
+Example of faithfulness, sacrificing for the short term but seeing God. Good for teaching kids used to thinking about immediate gratification.
+
+
+
+
 - Story of Elijah
 - Nehemiah
 - Proverbs

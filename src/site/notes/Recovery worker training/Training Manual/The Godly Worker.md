@@ -21,8 +21,14 @@
 
 
 
-# Passages to Learn
-- Ruth
+## Passages to Learn
+
+### Ruth
+Example of faithfulness, sacrificing for the short term but seeing God. Good for teaching kids used to thinking about immediate gratification.
+
+
+
+
 - Story of Elijah
 - Nehemiah
 - Proverbs
@@ -84,6 +90,8 @@ https://bibleproject.com/locale/downloads/tha/
 - 1 John
 - 2 Timothy
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kOiGyv4YWy8?si=K2Rb1vWTQpqY52Q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 </div></div>

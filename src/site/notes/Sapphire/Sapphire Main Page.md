@@ -51,4 +51,4 @@
 { .block-language-dataview}
 
 
-# [[Recovery worker training/Training Manual/Training Manual Table of Contents\|Training Manual Table of Contents]]
+# [[Recovery worker training/Training Manual/Worker Training Manual\|Worker Training Manual]]
