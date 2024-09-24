@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/sapphire/sapphire-residential-prevention-centers-overview/"}
 ---
 
-	
+## [[Sapphire/Sapphire Residential Prevention Centers Overview Thai\|บ้านไพลิน ภาพรวม]]	
+
 # Summary
 Proposed is a new network of small boardings schools for young teens and preteens. These homes will not only provide opportunity for girls to grow and learn in safety,  but will serve as touchpoints to expose many to both the needs of hurting kids but best practices in caring for them, following the example of Jesus.
 
