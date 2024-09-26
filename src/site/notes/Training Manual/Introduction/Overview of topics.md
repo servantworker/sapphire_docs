@@ -52,7 +52,7 @@ If you can learn to live without comparing it will bless you.
 - Gentleness
 - Self-control
 ### Prayerfulness
-### [[Training Manual/Maintaining Mindfulness\|Maintaining Mindfulness]]
+### [[Training Manual/Maintaining Mindfulness-Prayerfulness\|Maintaining Mindfulness-Prayerfulness]]
 
 ### Wisdom
 

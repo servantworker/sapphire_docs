@@ -4,4 +4,4 @@
 
 - [ ] Safety audit #essential
 - [ ] Install cameras and monitoring system
-- [ ] Washing machine
+- [ ] Purchase washing machine

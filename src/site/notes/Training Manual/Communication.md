@@ -142,4 +142,4 @@ Caveats ข้อควรระวัง
 
 [[Training Manual/Talking About People\|Talking About People]]
 
-[[Talking About Co-Workers\|Talking About Co-Workers]]
+[[Training Manual/Talking About Co-Workers\|Talking About Co-Workers]]

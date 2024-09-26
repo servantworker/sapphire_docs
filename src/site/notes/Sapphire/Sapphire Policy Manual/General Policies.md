@@ -19,7 +19,7 @@ Reward students for behavior and demonstration of character, not demonstration o
 All workers may be referred to as "counselors",  given their role to help each student become her best.
 ## Roles
 ### Care Team member
-[[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Care Team\|Sapphire Care Team]]
+[[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Care Team Member\|Sapphire Care Team Member]]
 ### Director, FT
 [[Sapphire/Sapphire Policy Manual/Job Descriptions/Sapphire Program Director\|Sapphire Program Director]]
 ### Supervising teacher, FT
@@ -45,9 +45,9 @@ It's not what you expect, it's what you inspect.
 [[Sapphire/Sapphire Policy Manual/Sapphire Management Documentation\|Sapphire Management Documentation]]
 
 
- | File                                                | Scenes |
-| --------------------------------------------------- | ------ |
-| [[Sapphire/Sapphire Policy Manual/Index\|Index]] | \-     |
+ | File                                                | Scenes    |
+| --------------------------------------------------- | --------- |
+| [[Sapphire/Sapphire Policy Manual/Index\|Index]] | <ul></ul> |
 
 { .block-language-dataview}
 
