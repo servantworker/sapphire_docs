@@ -8,7 +8,6 @@
 ## [[Training Manual/The Godly Worker\|The Godly Worker]]
 | File                                                                                                | Thai                                                                                        | % Completed | Importance |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------- | ---------- |
-| [[Training Manual/Bible Foundations Thai\|Bible Foundations Thai]]                               | \-                                                                                          | 20          | Essential  |
 | [[Training Manual/Bible Foundations\|Bible Foundations]]                                         | [[Training Manual/Bible Foundations Thai\|พื้นฐานจากพระคัมภีร์]]                         | 20          | Essential  |
 | [[Training Manual/Character\|Character]]                                                         | \-                                                                                          | 20          | Essential  |
 | [[Training Manual/Co-worker relationships\|Co-worker relationships]]                             | \-                                                                                          | 10          | Essential  |
