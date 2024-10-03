@@ -6,7 +6,7 @@
 
 - [[Sapphire/Sapphire Residential Prevention Centers Overview\|Sapphire Residential Prevention Centers Overview]]
 - ภาษาไทย [[Sapphire/Sapphire Residential Prevention Centers Overview Thai\|Sapphire Residential Prevention Centers Overview Thai]]
-[[Sapphire/Organizational Culture\|Organizational Culture]]
+- [[Sapphire/Sapphire Policy Manual/Core Values\|Core Values]]
 
 
 # [[Sapphire/Launch/Launch Steps\|Launch Steps]]
@@ -48,6 +48,7 @@ I'll try to organize these better.
 | [[Sapphire/Sapphire Policy Manual/Sapphire Management Documentation\|Sapphire Management Documentation]] | \-                                                                                              | \-         | Essential  |
 | [[Sapphire/Sapphire Policy Manual/Student Conduct Standards\|Student Conduct Standards]]                 | [[Sapphire/Sapphire Policy Manual/Student Conduct Policy Thai\|Student Conduct Policy Thai]] | \-         | Essential  |
 | [[Sapphire/Sapphire Policy Manual/Worker Conduct\|Worker Conduct]]                                       | \-                                                                                              | \-         | Essential  |
+| [[Sapphire/Sapphire Policy Manual/Core Values\|Core Values]]                                             | [[Sapphire/Sapphire Policy Manual/Core Values Thai\|ค่านิยมหลัก]]                            | \-         | Essential  |
 
 { .block-language-dataview}
 

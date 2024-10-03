@@ -6,6 +6,7 @@
 | ----------------------------------------------------------------------------------------------------------- | ---------- | ----------- | ---------- | ------- |
 | [[Sapphire/Sapphire Policy Manual/Child Protection Policy\|Child Protection Policy]]                     | Essential  | \-          | 10%        | \-      |
 | [[Sapphire/Sapphire Policy Manual/Confidentiality Policy\|Confidentiality Policy]]                       | Essential  | \-          | 80%        | \-      |
+| [[Sapphire/Sapphire Policy Manual/Core Values\|Core Values]]                                             | Essential  | \-          | \-%        | \-      |
 | [[Sapphire/Sapphire Policy Manual/Financial Policies\|Financial Policies]]                               | Essential  | \-          | 0%         | \-      |
 | [[Sapphire/Sapphire Policy Manual/General Policies\|General Policies]]                                   | \-         | \-          | \-%        | \-      |
 | [[Sapphire/Sapphire Policy Manual/Grievance Policy\|Grievance Policy]]                                   | Essential  | \-          | 80%        | \-      |

@@ -13,10 +13,10 @@
 | [[Training Manual/Character\|Character]]                                                         | \-                                                                                          | 20          | Essential  |
 | [[Training Manual/Co-worker relationships\|Co-worker relationships]]                             | \-                                                                                          | 10          | Essential  |
 | [[Training Manual/Keeping Healthy Boundaries\|Keeping Healthy Boundaries]]                       | [[Training Manual/Boundaries Thai\|ขอบเขต]]                                              | 90          | Essential  |
+| [[Training Manual/Maintaining Mindfulness-Prayerfulness\|Maintaining Mindfulness-Prayerfulness]] | [[Training Manual/Maintaining Mindfulness-Prayerfulness Thai\|การรักษาสติและการอธิษฐาน]] | 80          | Essential  |
 | [[Training Manual/Relationships\|Relationships]]                                                 | \-                                                                                          | 0           | Essential  |
 | [[Training Manual/Self care\|Self care]]                                                         | \-                                                                                          | 25          | Essential  |
 | [[Training Manual/Talking About People\|Talking About People]]                                   | \-                                                                                          | 75          | Essential  |
-| [[Training Manual/Maintaining Mindfulness-Prayerfulness\|Maintaining Mindfulness-Prayerfulness]] | [[Training Manual/Maintaining Mindfulness-Prayerfulness Thai\|การรักษาสติและการอธิษฐาน]] | 80          | Essential  |
 
 { .block-language-dataview}
 ## Understanding Teens
@@ -40,13 +40,13 @@
 | [[Training Manual/Crisis Intervention\|Crisis Intervention]]                                    | [[Training Manual/Crisis Intervention Thai\|การแทรกแซงในภาวะวิกฤต]]                  | 80          | Essential  |
 | [[Training Manual/Healing and Growth/Identifying Trauma\|Identifying Trauma]]                   | [[Training Manual/Healing and Growth/Identifying Trauma Thai\|สัญญาณของภาวะ trauma]] | \-          | Can wait   |
 | [[Training Manual/Healing and Growth/Raising Teens to Know Jesus\|Raising Teens to Know Jesus]] | \-                                                                                      | 25          | \-         |
+| [[Training Manual/Motivational Interviewing\|Motivational Interviewing]]                        | \-                                                                                      | 50          | Can wait   |
 | [[Training Manual/Planning for progress\|Planning for progress]]                                | \-                                                                                      | 0           | Essential  |
 | [[Training Manual/Problem-Solving\|Problem-Solving]]                                            | [[Problem Solving Thai\|การแก้ปัญหา]]                                                | 90          | Optional   |
 | [[Training Manual/Teaching Methodologies\|Teaching Methodologies]]                              | \-                                                                                      | 10          | Essential  |
 | [[Training Manual/Understanding Teens/Evaluating Trauma\|Evaluating Trauma]]                    | \-                                                                                      | 80          | Essential  |
 | [[Training Manual/Worker-student relationships\|Worker-student relationships]]                  | \-                                                                                      | 20          | Essential  |
 | [[Training Manual/Writing useful notes\|Writing useful notes]]                                  | [[Training Manual/Writing Useful Notes Thai\|การเขียนโน้ตที่มีประโยชน์]]             | 80          | Essential  |
-| [[Training Manual/Motivational Interviewing\|Motivational Interviewing]]                        | \-                                                                                      | 50          | Can wait   |
 
 { .block-language-dataview}
 
