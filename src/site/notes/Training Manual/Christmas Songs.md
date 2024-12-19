@@ -11,12 +11,15 @@ And heaven and nature sing
 And heaven and nature sing  
 And heaven, and heaven, and nature sing  
   
-Joy to the world, the Savior reigns!  
-Let men their songs employ;  
-While fields and floods, rocks, hills and plains  
-Repeat the sounding joy  
-Repeat the sounding joy  
-Repeat, repeat, the sounding joy
+No more let sins and sorrows grow,  
+Nor thorns infest the ground;  
+He comes to make his blessings flow  
+Far as the curse is found.  
+
+He rules the world with truth and grace,  
+And makes the nations prove  
+The glories of his righteousness,  
+And wonders of his love.
 # Hark the Herald
 Hark the herald angels sing  
 "Glory to the newborn King!  
@@ -49,7 +52,6 @@ Come and behold Him  Born the King of Angels
 O come, let us adore Him...
 
 
-
 Yea, Lord, we greet Thee, 
 born this happy morning;  
 Jesus, to Thee be all glory giv'n!  
@@ -70,6 +72,30 @@ Come to Bethlehem and see
 Him whose birth the angels sing.  
 Come, adore on bended knee  
 Christ the Lord, the newborn King. 
+
+# Go Tell It On the Mountain
+Go, tell it on the mountain  
+Over the hills and everywhere  
+Go, tell it on the mountain  
+That Jesus Christ is born
+
+While shepherds kept their watching  
+O'er silent flocks by night  
+Behold throughout the heavens  
+There shone a Holy light
+....
+
+The shepherds feared and trembled  
+When, lo! Above the Earth  
+Rang out the angel chorus  
+That hailed our Savior's birth
+...
+
+Down in a lowly manger  
+Our humble Christ was born  
+And brought us all salvation  
+That blessed Christmas morn
+
 
 # Away in a Manger
 Away in a manger, no crib for a bed,  
@@ -123,5 +149,23 @@ where meek souls will receive Him still,
 the dear Christ enters in.
 
 # Silent Night
+Silent night, holy night 
+All is calm, all is bright 
+Round yon virgin mother and Child 
+Holy Infant so tender and mild 
+Sleep in heavenly peace 
+
+Silent night, holy night 
+Shepherds quake at the sight 
+Glories stream from heaven afar 
+Heavenly hosts sing halleluia 
+Christ the Savior is born 
+
+Silent night, holy night 
+Son of God, love's pure light 
+Radiant beams from Thy holy face 
+With the dawn of redeeming grace 
+Jesus Lord at Thy birth 
+
 
 # We Wish You a Merry Christmas
